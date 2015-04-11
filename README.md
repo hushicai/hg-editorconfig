@@ -5,5 +5,5 @@ editorconfig
 ## usage
 
 ```bash
-hg install hushicai@hg-editorconfig
+hg generate hushicai@hg-editorconfig
 ```
